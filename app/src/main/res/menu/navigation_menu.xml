@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_shops"
+        android:title="Shops"
+        android:icon="@mipmap/ic_shopping_cart_black_24dp"/>
+
+    <item android:id="@+id/nav_restaurants"
+        android:title="Restaurants"
+        android:icon="@mipmap/ic_restaurant_black_24dp"/>
+
+    <item android:id="@+id/nav_to_do"
+        android:title="To Do"
+        android:icon="@mipmap/ic_local_activity_black_24dp"/>
+
+    <item android:id="@+id/nav_culture"
+        android:title="Culture"
+        android:icon="@mipmap/ic_account_balance_black_24dp"/>
+</group>
+
+</menu>
